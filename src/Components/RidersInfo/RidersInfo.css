@@ -1,0 +1,7 @@
+.vehicles img{
+
+    height: 210px;
+}
+.vehicle-item{
+    cursor: pointer;
+}

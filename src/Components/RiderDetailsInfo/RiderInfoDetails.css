@@ -1,0 +1,25 @@
+.rideDetails {
+    display: flex;
+}
+
+.rideDetails img {
+    width: 109px;
+}
+
+.rideDetails {
+    border: 1px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.details h4{
+    margin-right: 15px;
+}
+.details h5{
+    margin-right: 20px;
+}

@@ -1,0 +1,18 @@
+form.pick-form {
+    background-color: #ddd;
+    padding: 24px 0px;
+}
+
+form.pick-form input {
+    padding: 4px;
+    border: navajowhite;
+    border-radius: 5px;
+    width: 77%;
+  
+}
+.location h5{
+    color: coral;
+    background-color: #14141a;
+    padding: 10px;
+    border-radius: 10px;
+}
